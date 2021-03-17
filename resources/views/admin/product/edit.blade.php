@@ -1,0 +1,1 @@
+@livewire('product.edit-product-page')

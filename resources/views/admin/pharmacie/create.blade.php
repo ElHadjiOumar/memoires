@@ -1,0 +1,1 @@
+@livewire('pharmacie.create-pharmacie-page')

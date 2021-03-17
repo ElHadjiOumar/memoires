@@ -1,0 +1,1 @@
+@livewire('medicament.edit-medicament-page')

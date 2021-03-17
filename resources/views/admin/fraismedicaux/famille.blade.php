@@ -1,0 +1,1 @@
+@livewire('fraismedicaux.famille-fraismedicaux-page')

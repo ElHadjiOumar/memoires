@@ -1,0 +1,1 @@
+@livewire('fraismedicaux.create-fraismedicaux-page')

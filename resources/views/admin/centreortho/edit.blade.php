@@ -1,0 +1,1 @@
+@livewire('centreortho.edit-centreortho-page')

@@ -1,0 +1,1 @@
+@livewire('fraismedicaux.index-fraismedicaux-page')

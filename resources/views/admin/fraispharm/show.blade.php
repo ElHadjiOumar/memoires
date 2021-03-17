@@ -1,0 +1,1 @@
+@livewire('fraispharm.show-fraispharm-page')

@@ -1,0 +1,1 @@
+@livewire('maladie.index-maladie-page')

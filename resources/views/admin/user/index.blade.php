@@ -1,0 +1,1 @@
+@livewire('user.index-user-page')

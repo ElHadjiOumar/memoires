@@ -1,0 +1,1 @@
+@livewire('medicament.index-medicament-page')

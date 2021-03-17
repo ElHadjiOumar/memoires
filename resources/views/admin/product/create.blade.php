@@ -1,0 +1,1 @@
+@livewire('product.create-product-page')

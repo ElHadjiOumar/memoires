@@ -1,0 +1,1 @@
+@livewire('opticien.create-opticien-page')

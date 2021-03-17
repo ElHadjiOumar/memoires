@@ -1,0 +1,1 @@
+@livewire('specialisation.create-specialisation-page')

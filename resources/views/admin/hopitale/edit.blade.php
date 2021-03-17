@@ -1,0 +1,1 @@
+@livewire('hopitale.edit-hopitale-page')

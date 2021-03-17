@@ -1,0 +1,1 @@
+@livewire('medecin.edit-medecin-page')

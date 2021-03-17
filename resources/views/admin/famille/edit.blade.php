@@ -1,0 +1,1 @@
+@livewire('famille.edit-famille-page')

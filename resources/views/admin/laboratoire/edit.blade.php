@@ -1,0 +1,1 @@
+@livewire('laboratoire.edit-laboratoire-page')
